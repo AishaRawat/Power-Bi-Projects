@@ -6,13 +6,13 @@
  ![Screenshot (167)](https://user-images.githubusercontent.com/50590260/227723117-8a8070b5-1f4b-4893-afcc-71c1df3d7100.png)
 
 
- Total Employees<br>
- Total Male Employess<br>
- Total Female Employees<br>
- Employees Due for Promotion<br>
- Employees Not Due for Promotion<br>
- Employees Service Year<br> 
- No Employees based on Job Levels<br>
- Employees who will not be laid off<br>
- Employee who will be laid off<br>
- Employees Distance from the office<br>
+    Total Employees<br>
+    Total Male Employess<br>
+    Total Female Employees<br>
+    Employees Due for Promotion<br>
+    Employees Not Due for Promotion<br>
+    Employees Service Year<br> 
+    No Employees based on Job Levels<br>
+    Employees who will not be laid off<br>
+    Employee who will be laid off<br>
+    Employees Distance from the office<br>
