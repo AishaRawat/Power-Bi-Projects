@@ -3,6 +3,8 @@
 1. HR Analytics Data<br>
  Suppose you are HR for an organisation and you are given data.You have to organise data and present a report on the data<br>
  The insights that have been drawn using this Dashboard:<br>
+ 
+ ![Alt Image text](/relative/https://github.com/AishaRawat/Power-Bi-Projects/blob/main/Screenshot%20(167).png/to/img.png?raw=true "Optional Title")
  Total Employees<br>
  Total Male Employess<br>
  Total Female Employees<br>
